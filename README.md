@@ -6,7 +6,7 @@
 
 ***
 
-## English Turkish language support
+## English / Turkish language support
 
 ![DesignWorkEuTr](https://user-images.githubusercontent.com/49068197/138768655-7c0e7a02-fcd6-4145-a431-209a81ae92a2.gif)
 
