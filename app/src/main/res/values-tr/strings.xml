@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Design Work</string>
+    <string name="uygulamaBaslik">MUSICA</string>
+    <string name="topArtists">En İyi Sanatçılar</string>
+    <string name="searchMusic">Müzik Ara</string>
+    <string name="topSongs">En İyi Müzikler</string>
+    <string name="topTurkey">En İyi 50 Türkiye</string>
+    <string name="topGlobal">En İyi 50 Dünya</string>
+    <string name="topRapHits">En İyi Rap</string>
+    <string name="topJazzHits">En İyi Jazz</string>
+    <string name="topGamingTracks">En İyi Oyuncu</string>
+    <string name="topHitsOf2000">En İyi 2000ler</string>
+    <string name="recommendedForYou">Senin İçin Önerilen</string>
+    <string name="tupacDoForLove">Do For Love</string>
+    <string name="snoopDoggWhoAmI">Who Am I</string>
+    <string name="lilWayneSuckerForPain">Sucker For Pain</string>
+    <string name="eminemStan">Stan</string>
+    <string name="jayZNiggasInParis">Ni**as In Paris</string>
+    <string name="drDreStillDre">Still D.R.E.</string>
+</resources>

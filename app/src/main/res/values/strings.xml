@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Design Work</string>
+    <string name="uygulamaBaslik">MUSICA</string>
+    <string name="topArtists">Top Artists</string>
+    <string name="searchMusic">Search Music</string>
+    <string name="topSongs">Top Songs</string>
+    <string name="topTurkey">Top 50 Turkey</string>
+    <string name="topGlobal">Top 50 Global</string>
+    <string name="topRapHits">Top Rap Hits</string>
+    <string name="topJazzHits">Top Jazz Hits</string>
+    <string name="topGamingTracks">Top Gaming</string>
+    <string name="topHitsOf2000">Top Hits of 2000</string>
+    <string name="recommendedForYou">Recommended For You</string>
+    <string name="tupacDoForLove">Do For Love</string>
+    <string name="snoopDoggWhoAmI">Who Am I</string>
+    <string name="lilWayneSuckerForPain">Sucker For Pain</string>
+    <string name="eminemStan">Stan</string>
+    <string name="jayZNiggasInParis">Ni**as In Paris</string>
+    <string name="drDreStillDre">Still D.R.E.</string>
+</resources>
